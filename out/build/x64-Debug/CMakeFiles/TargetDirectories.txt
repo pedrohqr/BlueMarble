@@ -1,0 +1,3 @@
+C:/Users/pedro/Desktop/BlueMarble/out/build/x64-Debug/CMakeFiles/BlueMarble.dir
+C:/Users/pedro/Desktop/BlueMarble/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/pedro/Desktop/BlueMarble/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
