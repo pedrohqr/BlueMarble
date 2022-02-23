@@ -1,14 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\deps",
-    "\\deps\\glew\\bin",
-    "\\deps\\glew\\bin\\Release",
-    "\\deps\\glew\\bin\\Release\\x64",
-    "\\deps\\glew\\include\\GL",
-    "\\deps\\glfw\\lib-vc2019",
-    "\\out\\build"
+    "\\deps"
   ],
-  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
